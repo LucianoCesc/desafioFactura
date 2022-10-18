@@ -8,11 +8,15 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/ciste/Downloads/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgam/OneDrive/Escritorio/Java trainee sence/lombok.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
 		<attributes>
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/edgam/OneDrive/Escritorio/Java trainee sence/jstl-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgam/OneDrive/Escritorio/Java trainee sence/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgam/OneDrive/Escritorio/Java trainee sence/jstl-standard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edgam/OneDrive/Escritorio/Java trainee sence/jstl_el.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
